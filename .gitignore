@@ -1,0 +1,8 @@
+*.log
+*.pot
+*.pyc
+local_settings.py
+/.idea
+/scrutiny/hdfs_remote_conf/conf/
+/scrutiny/scripts/spark/*.sh
+test.sh
