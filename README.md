@@ -5,6 +5,7 @@ part 1) Scrutiny report visualisation by 3, 6, 9, 12 and infinity periods for 0 
 part 2) Scrutiny report visualisation by selected last X months showing TOP-N unused dataset names.
  
 2) Scrutiny report
+ref to https://github.com/ATLAS-Analytics/scrutiny , there we replace PIG script to Spark works
 # Data usage statistics for ATLAS DDM
 Main reports:
 * Volumes of data vs. number of accesses for last N months
